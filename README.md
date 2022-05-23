@@ -66,7 +66,7 @@ kthLargest.add(4);   // return 8
 
 所以比第1種方法用 min-heap 是一個比較優化的方式
 
-![heap.drawio.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c3678cff-982a-48dc-9307-5be966d6f69c/heap.drawio.png)
+![](https://i.imgur.com/tnogT2C.png)
 
 ## 程式碼
 
